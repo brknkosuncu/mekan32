@@ -1,5 +1,6 @@
 var createError = require('http-errors');
 require('./app_api/models/db'); 
+var favicon = require('serve-favicon')
 var express = require('express');
 var path = require('path');
 var cookieParser = require('cookie-parser');
