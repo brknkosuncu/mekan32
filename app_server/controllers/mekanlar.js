@@ -109,7 +109,7 @@ var anaSayfaOlustur = function(req, res,cevap, mekanListesi){
         var gelenMekan = mekanDetaylari;
         if(!hata) {
           gelenMekan.koordinatlar = {
-            enlem : mekanDetaylari.koordinatlar[2],
+            enlem : mekanDetaylari.koordinatlar[0],
             boylam : mekanDetaylari.koordinatlar[1]
           };
           callback(req, res,gelenMekan);
