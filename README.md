@@ -1,7 +1,7 @@
 # Mekan32: [berkankosuncu1611012083.herokuapp.com/?enlem=37.781885&boylam=30.56642]
-Mekan32 projesi MEAN yığını kullanarak geliştireceğimiz bir projedir. Uygulama, Isparta bazlı çalışacak olup, kullanıcının konumuna belirlenen uzaklıktaki restorant, kafe vb. yerleri listeleyecek.
+Mekan32 projesi MEAN yığını kullanarak geliştirilen bir projedir. Uygulama, Isparta bazlı çalışacak olup, kullanıcının konumuna belirlenen uzaklıktaki restorant, kafe vb. yerleri listeler.
 
-## Kullanılacak Teknolojiler:
+## Kullanılan Teknolojiler:
 * Orta katman: ExpressJS
 * Sunucu platformu: NodeJS
 * Veritabanı: MongoDB
@@ -15,7 +15,7 @@ Mekan32 projesi MEAN yığını kullanarak geliştireceğimiz bir projedir. Uygu
 * Arayüz Çatısı: Angular
 * API Testi: Postman
 
-## Uygulamada Yer Alacak Özellikler:
+## Uygulamada Yer Alan Özellikler:
 * Anasayfada konum civarındaki mekanların listelenmesi.
 * Herhangi bir mekanın üzerine tıklandığında mekan ile ilgili detay sayfasının gösterilmesi. Bu sayfada mekanın puanı, adresi, çalışma saatleri, sunduğu imkanlar, harita üzerindeki yeri, kullanıcı yorumları gösterilecek.
 * Kullanıcılar mekana yorum yapabilecek ve puan verebilecek.
