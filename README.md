@@ -1,4 +1,4 @@
-# Mekan32: [berkankosuncu1611012083.herokuapp.com/?enlem=37.781885&boylam=30.56642]
+# Mekan32
 Mekan32 projesi MEAN yığını kullanarak geliştirilen bir projedir. Uygulama, Isparta bazlı çalışacak olup, kullanıcının konumuna belirlenen uzaklıktaki restorant, kafe vb. yerleri listeler.
 
 ## Kullanılan Teknolojiler:
