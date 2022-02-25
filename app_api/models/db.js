@@ -1,6 +1,6 @@
 var mongoose=require('mongoose')
-var dbURI = 'mongodb+srv://mekan32:1997190707M@mekan32.stuxv.mongodb.net/mekan32?retryWrites=true&w=majority'; 
-//var dbURI= 'mongodb+srv://mekan32:<password>@mekan32.1hc4v.mongodb.net/<dbname>?retryWrites=true&w=majority';
+var dbURI = 'mongo_adress'; 
+
 mongoose.connect(dbURI, {useNewUrlParser: true}); 
 
 mongoose.connection.on('connected', function () {
